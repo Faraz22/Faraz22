@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Faraz22
+- 👋 Hi, I’m Faraz
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on ...
